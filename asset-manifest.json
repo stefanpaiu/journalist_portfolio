@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/journalist_portfolio/static/css/main.eb35a3b8.css",
+    "main.js": "/journalist_portfolio/static/js/main.c4c87335.js",
+    "static/media/stefan_camera.png": "/journalist_portfolio/static/media/stefan_camera.5881397f5e1b52ffe1f7.png",
+    "static/media/FaceIcon.png": "/journalist_portfolio/static/media/FaceIcon.64e9ab0d9e84a8910400.png",
+    "index.html": "/journalist_portfolio/index.html",
+    "main.eb35a3b8.css.map": "/journalist_portfolio/static/css/main.eb35a3b8.css.map",
+    "main.c4c87335.js.map": "/journalist_portfolio/static/js/main.c4c87335.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb35a3b8.css",
+    "static/js/main.c4c87335.js"
+  ]
+}
